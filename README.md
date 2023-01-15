@@ -1,2 +1,2 @@
 # umap_panels_app
-Code for Shiny app hosted at 
+Code for Shiny app hosted at https://jfneum.shinyapps.io/umap_panels_app/
